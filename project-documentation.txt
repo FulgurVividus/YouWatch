@@ -1,0 +1,6 @@
+#1 These are needed dependencies for Material UI to work:
+
+"@emotion/react"
+"@emotion/styled"
+
+#2 npm install --legacy-peer-deps 
