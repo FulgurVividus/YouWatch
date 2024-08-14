@@ -4,3 +4,7 @@
 "@emotion/styled"
 
 #2 npm install --legacy-peer-deps 
+
+#3 YouTube API V3
+Request limit: 500 requests / day
+Rate limit: 1000 requests / hour
