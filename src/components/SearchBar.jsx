@@ -12,7 +12,6 @@ function Searchbar() {
 
     if (searchTerm) {
       navigate(`/search/${searchTerm}`);
-
       setSearchTerm("");
     }
   }
