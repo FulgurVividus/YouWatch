@@ -1,5 +1,6 @@
 import { Stack, Box } from "@mui/material";
-import { VideoCard, ChannelCard } from "./";
+import ChannelCard from "./ChannelCard";
+import VideoCard from "./VideoCard";
 
 function Videos({ videos, direction }) {
   return (

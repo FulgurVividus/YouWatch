@@ -1,8 +1,8 @@
 import { Box, Typography } from "@mui/material";
-import { Videos } from "./";
 import { useEffect, useState } from "react";
 import { fetchFromApi } from "../utils/fetchFromApi";
 import { useParams } from "react-router-dom";
+import Videos from "./Videos";
 
 function SearchFeed() {
   const [videos, setVideos] = useState([]);
