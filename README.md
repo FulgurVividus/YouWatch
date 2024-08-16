@@ -41,9 +41,18 @@ YouWatch is a fully mobile-friendly video streaming application built with React
 
 ## Screenshots 📸
 
+Screenshots of main:
 ![Screenshot 1 - Main_1](images/main-and-categories-1.png)
 ![Screenshot 2 - Main_2](images/main-and-categories-2.png)
+
+Screenshots of channel:
 ![Screenshot 3 - Channel](images/channel.png)
+
+Screenshots of search:
 ![Screenshot 4 - Search](images/search.png)
+
+Screenshots of video player and related videos:
 ![Screenshot 5 - Video Player and Related Videos](images/video-videos.png)
+
+Screenshots of mobile responsive:
 ![Screenshot 6 - Mobile Responsive](images/mobile-responsive.png)
