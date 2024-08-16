@@ -38,3 +38,12 @@ YouWatch is a fully mobile-friendly video streaming application built with React
 3. Install the dependencies by running `npm install`.
 4. Start the development server with `npm run dev`.
 5. Or visit the application via the link provided in the "About" section.
+
+## Screenshots 📸
+
+![Screenshot 1 - Main_1](images/main-and-categories-1.png)
+![Screenshot 2 - Main_2](images/main-and-categories-2.png)
+![Screenshot 3 - Channel](images/channel.png)
+![Screenshot 4 - Search](images/search.png)
+![Screenshot 5 - Video Player and Related Videos](images/video-videos.png)
+![Screenshot 6 - Mobile Responsive](images/mobile-responsive.png)
