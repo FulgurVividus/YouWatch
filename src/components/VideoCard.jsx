@@ -3,7 +3,6 @@ import { CheckCircle } from "@mui/icons-material";
 import { Link } from "react-router-dom";
 
 import {
-  demoThumbnailUrl,
   demoVideoUrl,
   demoVideoTitle,
   demoChannelUrl,
